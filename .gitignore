@@ -6,3 +6,6 @@ local.properties
 *.iml
 .kotlin/
 captures/
+keystore.properties
+*.keystore
+KEYSTORE_CREDENTIALS.txt
