@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YapPay</string>
+    <string name="widget_label">YapPay</string>
+    <string name="widget_description">Tap to add an expense by voice</string>
+    <string name="widget_today">Today</string>
+    <string name="widget_zero">₹0</string>
+    <string name="widget_tap_to_speak">Tap, then hold</string>
+    <string name="widget_brand">YapPay</string>
+    <string name="widget_auto_saves">Auto-saves</string>
+    <string name="widget_this_month">This month</string>
+    <string name="widget_content_description">YapPay. Today&#8217;s total %1$s. Tap, then hold to speak.</string>
+    <string name="widget_content_description_wide">YapPay. Today %1$s. This month %2$s. Tap, then hold to speak.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Android 12+ always prepares a starting window. For the quick-capture overlay it must be
+        invisible, otherwise the launcher splash delays the perception of the widget tap.
+    -->
+    <style name="Theme.YapPay.QuickCapture" parent="Theme.YapPay.QuickCapture.Base">
+        <item name="android:windowSplashScreenBackground">@android:color/transparent</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/transparent_drawable</item>
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/transparent_drawable</item>
+    </style>
+</resources>

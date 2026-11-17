@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ATELIER app mark: a faceted gold microphone in twin hairline rings, centred in the
+     108dp adaptive-icon viewport (all content inside the 66dp safe circle). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer hairline ring -->
+    <path
+        android:pathData="M24.4,54a29.6,29.6 0 1,0 59.2,0a29.6,29.6 0 1,0 -59.2,0z"
+        android:fillColor="#00000000"
+        android:strokeWidth="0.7"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="24"
+                android:startY="24"
+                android:endX="84"
+                android:endY="84"
+                android:startColor="#CCF7E7BF"
+                android:centerColor="#B3C9A96A"
+                android:endColor="#668A6A33" />
+        </aapt:attr>
+    </path>
+
+    <!-- Inner hairline ring -->
+    <path
+        android:pathData="M27.4,54a26.6,26.6 0 1,0 53.2,0a26.6,26.6 0 1,0 -53.2,0z"
+        android:fillColor="#00000000"
+        android:strokeWidth="0.4">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="27"
+                android:startY="86"
+                android:endX="86"
+                android:endY="27"
+                android:startColor="#80776B4A"
+                android:centerColor="#99D8B878"
+                android:endColor="#80E4CD9C" />
+        </aapt:attr>
+    </path>
+
+    <!-- Gem-cut microphone capsule -->
+    <path
+        android:pathData="M54,36.4C57.7,36.4 60.5,39.5 60.5,43.3V54.4C60.5,58.2 57.7,61.3 54,61.3C50.3,61.3 47.5,58.2 47.5,54.4V43.3C47.5,39.5 50.3,36.4 54,36.4Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="54"
+                android:startY="36.4"
+                android:endX="54"
+                android:endY="61.3"
+                android:startColor="#FFFBF0D4"
+                android:centerColor="#FFE0C188"
+                android:endColor="#FFA5824A" />
+        </aapt:attr>
+    </path>
+
+    <!-- Facets: brilliant-cut crown over a soft pavilion -->
+    <path
+        android:pathData="M54,37.4L48.2,45.2M54,37.4L59.8,45.2M48.2,45.2L59.8,45.2M54,37.4V45.2"
+        android:fillColor="#00000000"
+        android:strokeWidth="0.45"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#A6FFF6DF" />
+    <path
+        android:pathData="M48.2,45.2L51.1,59.4M59.8,45.2L56.9,59.4M54,45.2V60.2"
+        android:fillColor="#00000000"
+        android:strokeWidth="0.4"
+        android:strokeLineCap="round"
+        android:strokeColor="#4DFFF6DF" />
+
+    <!-- Cradle arc -->
+    <path
+        android:pathData="M42.6,51.6V55C42.6,61.3 47.7,66.4 54,66.4C60.3,66.4 65.4,61.3 65.4,55V51.6"
+        android:fillColor="#00000000"
+        android:strokeWidth="2.1"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="42.6"
+                android:startY="51.6"
+                android:endX="65.4"
+                android:endY="66.4"
+                android:startColor="#FFFBF0D4"
+                android:centerColor="#FFD8B878"
+                android:endColor="#FF9A7742" />
+        </aapt:attr>
+    </path>
+
+    <!-- Stem -->
+    <path
+        android:pathData="M54,66.4V70.2"
+        android:fillColor="#00000000"
+        android:strokeWidth="2.1"
+        android:strokeLineCap="round"
+        android:strokeColor="#FFD8B878" />
+
+    <!-- Jewel base -->
+    <path android:pathData="M54,69.8L57.7,73.6L54,77.4L50.3,73.6Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="50.3"
+                android:startY="69.8"
+                android:endX="57.7"
+                android:endY="77.4"
+                android:startColor="#FFF7E7BF"
+                android:centerColor="#FFD8B878"
+                android:endColor="#FF8A6A33" />
+        </aapt:attr>
+    </path>
+</vector>

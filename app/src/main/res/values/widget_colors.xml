@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The widget always uses the Atelier "hero" dark surface so it reads on any wallpaper. -->
+    <color name="widget_ink">#F5F2EC</color>
+    <color name="widget_muted">#A39C90</color>
+    <color name="widget_faint">#6F675C</color>
+    <color name="widget_gold">#C9A96A</color>
+    <color name="widget_orb_start">#E8D09C</color>
+    <color name="widget_orb_end">#B8945A</color>
+    <color name="widget_orb_ink">#16140F</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Solid mark used by themed icons: hairline surround + microphone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:pathData="M24.4,54a29.6,29.6 0 1,0 59.2,0a29.6,29.6 0 1,0 -59.2,0z"
+        android:fillColor="#00000000"
+        android:strokeWidth="0.9"
+        android:strokeColor="#FF000000" />
+
+    <path
+        android:pathData="M54,36.4C57.7,36.4 60.5,39.5 60.5,43.3V54.4C60.5,58.2 57.7,61.3 54,61.3C50.3,61.3 47.5,58.2 47.5,54.4V43.3C47.5,39.5 50.3,36.4 54,36.4Z"
+        android:fillColor="#FF000000" />
+
+    <path
+        android:pathData="M42.6,51.6V55C42.6,61.3 47.7,66.4 54,66.4C60.3,66.4 65.4,61.3 65.4,55V51.6"
+        android:fillColor="#00000000"
+        android:strokeWidth="2.1"
+        android:strokeLineCap="round"
+        android:strokeColor="#FF000000" />
+
+    <path
+        android:pathData="M54,66.4V70.2"
+        android:fillColor="#00000000"
+        android:strokeWidth="2.1"
+        android:strokeLineCap="round"
+        android:strokeColor="#FF000000" />
+
+    <path
+        android:pathData="M54,69.8L57.7,73.6L54,77.4L50.3,73.6Z"
+        android:fillColor="#FF000000" />
+</vector>
